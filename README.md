@@ -1,6 +1,7 @@
-# Developer name: Vasanth P
-# reg no : 212222240113
-# Ex.No: 6  HOLT WINTERS METHOD
+
+## Ex.No: 6  HOLT WINTERS METHOD
+### Developed by : Vasanth P
+### Reg no : 212222240113
 ### Date: 
 
 
